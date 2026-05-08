@@ -1,0 +1,17 @@
+{
+  "name": "booster-role-bot",
+  "version": "1.0.0",
+  "description": "Keeps a custom Booster role with a grace period after users stop boosting.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
